@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pydot
-URL = https://files.pythonhosted.org/packages/d7/2f/482fcbc389e180e7f8d7e7cb06bc5a7c37be6c57939dfb950951d97f2722/pydot-2.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/2c/aa/4cf0b17a070fb57798e8e0f5b1665abf5b2f19ee8ea47957aec2c37b9ced/pydot-3.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
